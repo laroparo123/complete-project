@@ -1,0 +1,4 @@
+Collecting django-storages==1.5.1
+  Downloading https://files.pythonhosted.org/packages/4a/ce/c4d23439b913c14ace0b5836087bd851fdf6920f53e9d6e17a2b247ad755/django_storages-1.5.1-py2.py3-none-any.whl (50kB)
+Collecting version
+  Downloading https://files.pythonhosted.org/packages/fd/b6/fa3b2c859d4d8817a106e4272029d78a2afbca0a27139997a4e5515bbf60/version-0.1.1.tar.gz
